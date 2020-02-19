@@ -1,0 +1,1 @@
+Cd command: This command is used to change the directory.
