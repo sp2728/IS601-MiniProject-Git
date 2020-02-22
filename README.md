@@ -1,16 +1,7 @@
-# IS601-MiniProject-Git
-________________________
-- Team Members:
-    - **Varsha Ahuja** 
-    - **Sai Kiran Pocham** 
-    - **Jinal Shah**
+# WSD-Mini-Project-1
+Team Members: Sai Kiran Pocham, Varsha Ahuja, Jinal Shah
+
+This is the Git Tutorial [Git Tutorial](GitTutorial.md)
 
 
-## This project is explains the use of GitHub
-
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
+![afasfa](1.png)
