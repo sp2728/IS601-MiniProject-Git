@@ -1,2 +1,3 @@
-# WSD-Mini-Project-1
-Team Members: Sai Kiran Pocham, Varsha Ahuja, Jinal Shah
+# Welcome to Git Tutorial
+**This is the best place you can ever be**
+
