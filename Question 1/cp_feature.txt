@@ -1,1 +1,0 @@
-cp command: This command is used to copy the file from one directory to another.
